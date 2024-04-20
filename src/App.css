@@ -1,0 +1,64 @@
+.lista{
+    display: inline;
+}
+.lista li {
+    padding-right:10px ;
+    display: inline-block;
+}
+.tit-list{
+    display: inline;
+}
+button.btn.btn-primary{
+    display: block;
+    margin-bottom: 10px;
+    background: #37E3DD;
+    border: 1px solid #37E3DD;
+    color: #000000;
+}
+ul {
+    padding-left: 0.5rem;
+}
+.card {
+    margin-bottom: 30px;
+}
+.logo{
+    width: 80px;
+    height: auto;
+}
+.carrusel{
+    padding: 0px;
+    background: #37E3DD;
+    margin-bottom: 50px;
+}
+.carousel-caption h5 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 80px;
+    color: #FECD60;
+    -webkit-text-stroke: 1px black; 
+}
+.carousel-control-next , .carousel-control-prev {
+    display: none;
+}
+#footer{
+    background-color: #FECD60;
+    padding: 30px 0px 0px 0px;
+}
+.lista-footer{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+}
+.copyright{
+    text-align: center;
+    background-color: #7F4C28;
+    color: beige;
+    padding: 30px 0px 30px;
+}
+.lista-footer li a {
+    text-decoration: none;
+    color: #000000;
+    font-weight: bold;
+}
+
