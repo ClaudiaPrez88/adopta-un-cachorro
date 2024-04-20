@@ -1,8 +1,14 @@
 .lista{
     display: inline;
+    padding-left: 0px;
+}
+
+a.nav-link {
+    color: #0A4EAC;
+    font-weight: bold;
 }
 .lista li {
-    padding-right:10px ;
+    margin-right:10px ;
     display: inline-block;
 }
 .tit-list{
@@ -61,4 +67,10 @@ ul {
     color: #000000;
     font-weight: bold;
 }
-
+.card-perro{
+    display: flex;
+    justify-content: center;
+}
+.texto-footer{
+    padding: 50px;
+}

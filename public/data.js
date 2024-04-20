@@ -63,5 +63,4 @@
         tags: ["Cachorro", "Hembra"]
     }
 ];
-
 export default datos
